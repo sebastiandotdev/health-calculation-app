@@ -7,7 +7,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 
-const ADMIN_EMAIL = "jcastro285@estudiantes.areandina.edu.co"
+const ADMIN_EMAIL = "mgomez407@estudiantes.areandina.edu.co"
 
 export function WelcomeForm() {
   const router = useRouter()
